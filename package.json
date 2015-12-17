@@ -1,0 +1,35 @@
+{
+  "name": "generator-react-babel",
+  "version": "0.2.0",
+  "description": "React+Babel+Webpack+ES6",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargav175/generator-react-babel.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "generator",
+    "react-babel-webpack",
+    "react-webpack",
+    "react-babel",
+    "babel"
+  ],
+  "author": "Bhargav Ponnapalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhargav175/generator-react-babel/issues"
+  },
+  "homepage": "https://github.com/bhargav175/generator-react-babel#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.22.1"
+  },
+  "devDependencies": {
+    "inquirer-npm-name": "^1.0.0",
+    "underscore.string": "^3.2.2"
+  }
+}
