@@ -8,3 +8,9 @@ React + Babel + Webpack
 # To Run Dev Server
 
     npm run dev
+    
+# To Build files
+
+    npm run build
+
+This puts transpiled files into the lib folder.
