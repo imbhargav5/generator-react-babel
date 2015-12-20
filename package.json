@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/bhargav175/generator-react-babel#readme",
   "dependencies": {
+    "inquirer-npm-name": "^1.0.0",
     "yeoman-generator": "^0.22.1"
   },
   "devDependencies": {
