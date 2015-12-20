@@ -1,7 +1,7 @@
 {
   "name": "generator-react-babel",
   "version": "0.4.0",
-  "description": "React+Babel+Webpack+ES6",
+  "description": "Create React Plugins seamlessly!",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
