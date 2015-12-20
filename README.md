@@ -7,21 +7,21 @@ Quickly scaffold your next react project with react-babel generator. This genera
  - [x] Configured Dev folder for your plugin's playground
  - [x] Build command which transpiles files to ES5 for production.
 
-Installing this generator
+###Installing the generator
 
     npm install -g generator-react-babel
 
-#Initiate your project folder with this command
+##Initiate your project folder with this command
 
     yo react-babel
     
 This creates an src, lib, dev and test folder in your project directory.
 
-# To Run Dev Server
+## To Run Dev Server
 
     npm run dev
     
-# To Build files
+## To Build files
 
     npm run build
 
