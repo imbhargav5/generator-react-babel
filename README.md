@@ -3,7 +3,9 @@ Quickly scaffold your next react project with react-babel generator. This genera
 
  - [x] Webpack
  - [x] ES6 + Babel
- - [x] Mocha
+ - [x] React + ReactDOM
+ - [x] Configured Dev folder for your plugin's playground
+ - [x] Build command which transpiles files to ES5 for production.
 
 Installing this generator
 
