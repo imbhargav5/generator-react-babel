@@ -7,6 +7,17 @@ Quickly scaffold your next react project with react-babel generator. This genera
  - [x] Configured Dev folder for your plugin's playground
  - [x] Build command which transpiles files to ES5 for production.
 
+###Directory Structure
+
+    -src
+    -dev
+    -test
+    -lib
+    package.json
+    webpack.config.js
+    .babelrc
+    .eslintrc
+
 ###Installing the generator
 
     npm install -g generator-react-babel
