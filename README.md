@@ -9,10 +9,10 @@ Quickly scaffold your next react project with react-babel generator. This genera
 
 ###Directory Structure
 
-    -src
-    -dev
-    -test
-    -lib
+    src/
+    dev/
+    test/
+    lib/
     package.json
     webpack.config.js
     .babelrc
