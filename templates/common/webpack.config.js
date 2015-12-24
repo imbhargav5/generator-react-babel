@@ -1,4 +1,5 @@
 var path = require("path");
+var webpack = require("webpack");
 const sassLoaders = [
 'style-loader',
   'css-loader',
@@ -36,6 +37,9 @@ module.exports = {
     },
     resolve: {
         extensions: ['', '.js', '.jsx']
-    }
+    },
+    plugins: [
+    new webpack.optimize.CommonsChunkPlugin('vendor','vendor.js')
+  ]
 
 }
