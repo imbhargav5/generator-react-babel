@@ -1,6 +1,6 @@
 {
   "name": "generator-react-babel",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Create React Plugins seamlessly!",
   "main": "lib/index.js",
   "scripts": {
