@@ -1,4 +1,4 @@
-# generator-react-babel [![Build Status](https://travis-ci.org/bhargav175/generator-react-babel.svg?branch=master)](https://travis-ci.org/bhargav175/generator-react-babel) [![Coverage Status](https://coveralls.io/repos/bhargav175/generator-react-babel/badge.svg?branch=master&service=github)](https://coveralls.io/github/bhargav175/generator-react-babel?branch=master)
+# generator-react-babel [![Build Status](https://travis-ci.org/bhargav175/generator-react-babel.svg?branch=master)](https://travis-ci.org/bhargav175/generator-react-babel) 
 Quickly scaffold your next react project with react-babel generator. This generator is most useful for creating react-plugins, so you can code your plugin in an ES6 fashion in the `src` dir and transpile it for production in the `lib` dir using babel. You also have a `dev` folder ready which can serve as a playground. Happy coding! Contributions are welcome! 
 
  - [x] Webpack
